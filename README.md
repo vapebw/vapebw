@@ -79,17 +79,23 @@ Me especializo en plugins de alto rendimiento de todo tipo, desde plugins basico
 
 ## 🛠️ Tech Stack | Tecnologías
 
-### 🔌 Core Engine & Game Servers (Motores Core y Servidores)
+### 🎮 Game Development (Desarrollo de Juegos)
+> **PocketMine-MP Modifier & Plugin Developer | Nukkit Plugin Developer**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PocketMine--MP-1E1E2E?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nukkit-FF4500?style=for-the-badge&logo=minecraft&logoColor=white" />
 </p>
 
-### ⚙️ Backend Runtime (Ejecución y Backend)
+### 🌐 Web & Automation (Web y Automatización)
+> **Web Page Developer | Discord Bot Developer**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ### 🗄️ Database & Tools (Bases de Datos y Entorno)
@@ -105,38 +111,39 @@ Me especializo en plugins de alto rendimiento de todo tipo, desde plugins basico
 ## ⚡ Projects | Proyectos
 
 <table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🇬🇧 English
-**PocketMine-MP Fork**<br>
-A highly modified, high performance custom PocketMine-MP Fork engineered exclusively for massive networks. Overhauled networking, asynchronous packet processing, and combat mechanics without compromising TPS.
-</td>
-<td width="50%" valign="top">
-
-### 🇪🇸 Español
-**Fork de PocketMine-MP**<br>
-Un Fork de PocketMine-MP altamente modificado y de alto rendimiento creado exclusivamente para redes masivas. Sistema de red reinventado, procesamiento asíncrono de paquetes y mecánicas de combate sin comprometer los TPS.
-
-### 🇬🇧 English
-**VesperMC**<br>
-An HCF server, created from scratch, over 6+ new events, highly optimized, 33+ partneritems, new class with unique mechanics, java-based mechanics (Spawners, AutoBrewer, Enchantments like SoloLegends etc.)
-</td>
-<td width="50%" valign="top">
-
-### 🇪🇸 Español
-**VesperMC**<br>
-Un servidor HCF, creado desde cero, más de 6+ eventos nuevos, altamente optimizado, más de 33+ abilitys, nueva clase con mecanicas unicas, mecanicas basadas en java (Spawners, AutoBrewer, Enchantments como SoloLegends etc.)
-</td>
-</tr>
+  <thead>
+    <tr>
+      <th width="50%">🇬🇧 English</th>
+      <th width="50%">🇪🇸 Español</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>PocketMine-MP Fork</b><br>
+        A highly modified, high performance custom PocketMine-MP Fork engineered exclusively for massive networks. Overhauled networking, asynchronous packet processing, and combat mechanics without compromising TPS.
+      </td>
+      <td>
+        <b>Fork de PocketMine-MP</b><br>
+        Un Fork de PocketMine-MP altamente modificado y de alto rendimiento creado exclusivamente para redes masivas. Sistema de red reinventado, procesamiento asíncrono de paquetes y mecánicas de combate sin comprometer los TPS.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>VesperMC</b><br>
+        An HCF server, created from scratch, over 6+ new events, highly optimized, 33+ partneritems, new class with unique mechanics, java-based mechanics (Spawners, AutoBrewer, Enchantments like SoloLegends etc.)
+      </td>
+      <td>
+        <b>VesperMC</b><br>
+        Un servidor HCF, creado desde cero, más de 6+ eventos nuevos, altamente optimizado, más de 33+ abilitys, nueva clase con mecanicas unicas, mecanicas basadas en java (Spawners, AutoBrewer, Enchantments como SoloLegends etc.)
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 > [!NOTE]  
 > ### 🛡️ Trusted By | Confiado Por:
-> ⚔️ **VesperMC**  
-> 🏆 **ClowMCPE**  
-> 🌟 **HeraMC**  
-> 🌍 **And others... / Y otros... (PocketmineFork)**
+> ⚔️ **VesperMC** | 🏆 **ClowMCPE** | 🌟 **HeraMC** | 🌍 **And others... / Y otros... (PocketmineFork)**
 
 
 
