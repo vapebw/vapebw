@@ -79,7 +79,7 @@ Me especializo en plugins de alto rendimiento de todo tipo, desde plugins basico
 
 ## 🛠️ Tech Stack | Tecnologías
 
-### 🎮 Game Development (Desarrollo de Juegos)
+### 🛠️ Development
 > **PocketMine-MP Modifier & Plugin Developer | Nukkit Plugin Developer**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
