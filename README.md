@@ -143,7 +143,7 @@ Me especializo en plugins de alto rendimiento de todo tipo, desde plugins basico
 
 > [!NOTE]  
 > ### 🛡️ Trusted By | Confiado Por:
-> ⚔️ **VesperMC** | 🏆 **ClowMCPE** | 🌟 **HeraMC** | 🌍 **And others... / Y otros... (PocketmineFork)**
+> ⚔️ **VesperMC** | 🏆 **Ice** | 🌟 **HeraMC** | 🌍 **And others... / Y otros... (PocketmineFork)**
 
 
 
